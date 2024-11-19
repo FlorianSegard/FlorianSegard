@@ -20,4 +20,4 @@
 - `Numpy` | `Pandas` | `Pytorch` | `tensorboard` | `tensorflow`
 
 ### **Tech Stack**
--🟦 Python / 🟧 C/C++ / 🟥 Scala / 🟩 SQL / 🟨 Docker / 🟫 Git
+- 🟦 Python / 🟧 C/C++ / 🟥 Scala / 🟩 SQL / 🟨 Docker / 🟫 Git
