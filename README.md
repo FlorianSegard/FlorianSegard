@@ -8,9 +8,9 @@
 ---
 
 ## 🌟 Most proud of
-- **[Motion estimation - CUDA](#)**: Project in C++ and cuda for motion detection in security cameras. (C, C++, CMake)
-- **[Mistral AI Hackathon - Hygie.ia](#)**: AI-powered platform for automating healthcare assessments (Python, FastAPI, Whisper, Next.js)
-- **[Data Engineering](#)**: Strong real time data pipeline (Scala / Spark / Kafka)
+- **[Motion estimation - CUDA](https://github.com/FlorianSegard/GPGPU_Project)**: Project in C++ and cuda for motion detection in security cameras. (C, C++, CMake)
+- **[Mistral AI Hackathon - Hygie.ia](https://github.com/ClovisDyArx/hackaton_mistral_alan)**: AI-powered platform for automating healthcare assessments (Python, FastAPI, Whisper, Next.js)
+- **[Data Engineering](https://github.com/FlorianSegard/DataEngineering)**: Strong real time data pipeline (Scala / Spark / Kafka)
 
 ---
 
